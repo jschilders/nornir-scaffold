@@ -1,0 +1,10 @@
+---
+cisco:
+    platform: 'ios'
+    username: 'admin'
+    password: 'admin'
+
+junos:
+    platform: 'junos'
+    username: 'admin'
+    password: 'admin'
